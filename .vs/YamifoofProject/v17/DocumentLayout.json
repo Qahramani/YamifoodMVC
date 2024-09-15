@@ -1,0 +1,885 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\shared\\_gallerypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\shared\\_gallerypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\dataaccesslayer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\dataaccesslayer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\dataaccesslayer\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\dataaccesslayer\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\gallerypagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\gallerypagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\menupagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\menupagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\legacy.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\legacy.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\dataaccesslayer\\entities\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\dataaccesslayer\\entities\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\shared\\components\\home\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\shared\\components\\home\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\picker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\picker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\images-loded.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\images-loded.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\isotope.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\isotope.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\jquery.mapify.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\jquery.mapify.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\jquery.superslides.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\jquery.superslides.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\popper.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\popper.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\js\\contact-form-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\js\\contact-form-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\dataaccesslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\dataaccesslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\blogdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\blogdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\blogdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\blogdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\shared\\_customerreviewspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\shared\\_customerreviewspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\stuff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\stuff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\stuffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\stuffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\superslides.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\superslides.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\classic.time.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\classic.time.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\classic.date.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\classic.date.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\classic.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\classic.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\baguettebox.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\baguettebox.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|c:\\users\\user\\onedrive\\desktop\\bp303\\tasks\\yamifoofproject\\yamifoofproject\\wwwroot\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956CB59F-36BB-49B7-8B9E-07187515F3F0}|YamifoofProject\\YamifoofProject.csproj|solutionrelative:yamifoofproject\\wwwroot\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T18:06:50.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Program.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Program.cs",
+              "RelativeToolTip": "YamifoofProject\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T11:30:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\DataAccessLayer\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\DataAccessLayer\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\DataAccessLayer\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "YamifoofProject\\DataAccessLayer\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:20:57.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_GalleryPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\_GalleryPartial.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Shared\\_GalleryPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\_GalleryPartial.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Shared\\_GalleryPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T14:35:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T11:52:56.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAAJoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T11:35:03.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\HomeController.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T11:34:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuPageController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\MenuPageController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\MenuPageController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\MenuPageController.cs",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\MenuPageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T11:52:50.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAYwGoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:19:18.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\DataAccessLayer\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\DataAccessLayer\\Entities\\Menu.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\DataAccessLayer\\Entities\\Menu.cs",
+              "RelativeToolTip": "YamifoofProject\\DataAccessLayer\\Entities\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:20:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "legacy.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\legacy.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\legacy.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\legacy.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\legacy.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:19:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAF8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T11:35:27.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GalleryPageController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\GalleryPageController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\GalleryPageController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\GalleryPageController.cs",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\GalleryPageController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:36:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "YamifoofProject\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:55:53.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:28:55.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Footer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\DataAccessLayer\\Entities\\Footer.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\DataAccessLayer\\Entities\\Footer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\DataAccessLayer\\Entities\\Footer.cs",
+              "RelativeToolTip": "YamifoofProject\\DataAccessLayer\\Entities\\Footer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:16:51.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\Components\\Home\\Default.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Shared\\Components\\Home\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\Components\\Home\\Default.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Shared\\Components\\Home\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T14:55:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "YamifoofProject\\Models\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:26:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "picker.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\picker.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\picker.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\picker.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\picker.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:19:00Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "images-loded.min.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\images-loded.min.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\images-loded.min.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\images-loded.min.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\images-loded.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:14:19.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "isotope.min.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\isotope.min.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\isotope.min.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\isotope.min.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\isotope.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:19:12.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "jquery.mapify.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\jquery.mapify.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\jquery.mapify.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\jquery.mapify.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\jquery.mapify.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:14:11.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "jquery.superslides.min.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\jquery.superslides.min.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\jquery.superslides.min.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\jquery.superslides.min.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\jquery.superslides.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:19:08.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "popper.min.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\popper.min.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\popper.min.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\popper.min.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\popper.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:15:52.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "contact-form-script.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\contact-form-script.js",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\js\\contact-form-script.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\js\\contact-form-script.js",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\js\\contact-form-script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T12:18:44.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\DataAccessLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\DataAccessLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\DataAccessLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "YamifoofProject\\DataAccessLayer\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:59:06.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlogDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\BlogDetailsController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\BlogDetailsController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\BlogDetailsController.cs",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\BlogDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:41:09.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:48:21.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:48:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\BlogDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\BlogDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\BlogDetails\\Index.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\BlogDetails\\Index.cshtml",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAAANYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:41:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAALwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:38:30.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_CustomerReviewsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\_CustomerReviewsPartial.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Shared\\_CustomerReviewsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Shared\\_CustomerReviewsPartial.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Shared\\_CustomerReviewsPartial.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:27:27.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:38:23.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Stuff\\Index.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Stuff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Stuff\\Index.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Stuff\\Index.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:35:10.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StuffController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\StuffController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\StuffController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\StuffController.cs",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\StuffController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:34:50.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Reservation\\Index.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\Reservation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\Reservation\\Index.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\Reservation\\Index.cshtml",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAFwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:32:28.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\ReservationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:32:16.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:03:39.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T11:40:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "YamifoofProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "YamifoofProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T11:41:08.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "YamifoofProject\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "YamifoofProject\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:03:33.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "superslides.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\superslides.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\superslides.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\superslides.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\superslides.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:48:00.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:59.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "responsive.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\responsive.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\responsive.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\responsive.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\responsive.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:59.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\font-awesome.min.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\font-awesome.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:59.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:59.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "classic.time.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\classic.time.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\classic.time.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\classic.time.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\classic.time.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:59.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "classic.date.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\classic.date.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\classic.date.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\classic.date.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\classic.date.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:58.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "classic.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\classic.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\classic.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\classic.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\classic.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:58.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:58.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "baguetteBox.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\baguetteBox.min.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\baguetteBox.min.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\baguetteBox.min.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\baguetteBox.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:57.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "animate.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\animate.css",
+              "RelativeDocumentMoniker": "YamifoofProject\\wwwroot\\css\\animate.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BP303\\Tasks\\YamifoofProject\\YamifoofProject\\wwwroot\\css\\animate.css",
+              "RelativeToolTip": "YamifoofProject\\wwwroot\\css\\animate.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-14T11:47:56.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

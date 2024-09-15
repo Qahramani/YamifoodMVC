@@ -1,0 +1,14 @@
+﻿@using YamifoofProject.DataAccessLayer.Entities
+@model List<Menu>;
+<div class="row">
+
+    @foreach (var menu in Model)
+    {
+        <div class="col-sm-12 col-md-4 col-lg-4">
+            <a class="lightbox" href="images/gallery-img-01.jpg">
+                <img class="img-fluid" src="images/@menu.ImageUrl" alt="Gallery Images">
+            </a>
+        </div>
+
+    }
+</div>
